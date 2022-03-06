@@ -1,0 +1,11 @@
+!help: Veja as opções de ajuda.
+
+!adm help: Veja as opções de comandos da administração (apens adms).
+
+!ping: Veja seu ping.
+
+!serverinfo: Veja as informações do servidor.
+
+!userinfo: Veja as informações de usuário.
+
+!botinfo: Veja as informações do bot.
